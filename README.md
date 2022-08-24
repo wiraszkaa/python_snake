@@ -2,7 +2,7 @@
 
 Popular Snake game created with Python.
 
-In branch onefile is one file version of the game.
+In branch onefile there is one file version of the game.
 
 Additional packages:
 

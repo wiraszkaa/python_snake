@@ -1,9 +1,11 @@
 # python_snake
 
-Popular game Snake created with Python and additional modules:
+Popular Snake game created with Python.
+
+In branch onefile is one file version of the game.
+
+Additional packages:
 
 -pygame
 
 -numpy
-
-In branch onefile is one file version of the game
